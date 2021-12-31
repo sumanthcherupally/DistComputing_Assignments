@@ -1,0 +1,500 @@
+Server3 requests 1 Clock synchronization request to Server1 at 9:10:57
+Server3 receives 1 Clock synchronization response from Server1 at 9:10:57
+Computing 1 delta between server3 and server1
+Updating 1 delta between server3 and server1
+Server3 requests 1 Clock synchronization request to Server2 at 9:10:57
+Server4 requests 1 Clock synchronization request to Server1 at 9:10:57
+Server3 receives 1 Clock synchronization response from Server2 at 9:10:57
+Computing 1 delta between server3 and server2
+Updating 1 delta between server3 and server2
+Server4 receives 1 Clock synchronization response from Server1 at 9:10:57
+Computing 1 delta between server4 and server1
+Updating 1 delta between server4 and server1
+Server3 requests 1 Clock synchronization request to Server3 at 9:10:57
+Server4 requests 1 Clock synchronization request to Server2 at 9:10:57
+Server3 receives 1 Clock synchronization response from Server3 at 9:10:57
+Computing 1 delta between server3 and server3
+Updating 1 delta between server3 and server3
+Server4 receives 1 Clock synchronization response from Server2 at 9:10:57
+Computing 1 delta between server4 and server2
+Updating 1 delta between server4 and server2
+Server3 requests 1 Clock synchronization request to Server4 at 9:10:57
+Server4 requests 1 Clock synchronization request to Server3 at 9:10:57
+Server3 receives 1 Clock synchronization response from Server4 at 9:10:57
+Computing 1 delta between server3 and server4
+Updating 1 delta between server3 and server4
+Server3 requests 1 Clock synchronization request to Server1744825472 at 9:10:57
+Server3 receives 1 Clock synchronization response from Server1744825472 at 9:10:57
+Computing 1 delta between server3 and server1744825472
+Updating 1 delta between server3 and server1744825472
+Server4 receives 1 Clock synchronization response from Server3 at 9:10:57
+Computing 1 delta between server4 and server3
+Updating 1 delta between server4 and server3
+Server3 requests 2 Clock synchronization request to Server1 at 9:10:57
+Server4 requests 1 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 1 Clock synchronization response from Server4 at 9:10:57
+Server3 receives 2 Clock synchronization response from Server1 at 9:10:57
+Computing 2 delta between server3 and server1
+Updating 2 delta between server3 and server1
+Computing 1 delta between server4 and server4
+Updating 1 delta between server4 and server4
+Server4 requests 1 Clock synchronization request to Server1736432768 at 9:10:57
+Server3 requests 2 Clock synchronization request to Server2 at 9:10:57
+Server4 receives 1 Clock synchronization response from Server1736432768 at 9:10:57
+Computing 1 delta between server4 and server1736432768
+Updating 1 delta between server4 and server1736432768
+Server4 requests 2 Clock synchronization request to Server1 at 9:10:57
+Server3 receives 2 Clock synchronization response from Server2 at 9:10:57
+Computing 2 delta between server3 and server2
+Updating 2 delta between server3 and server2
+Server3 requests 2 Clock synchronization request to Server3 at 9:10:57
+Server4 receives 2 Clock synchronization response from Server1 at 9:10:57
+Computing 2 delta between server4 and server1
+Updating 2 delta between server4 and server1
+Server4 requests 2 Clock synchronization request to Server2 at 9:10:57
+Server3 receives 2 Clock synchronization response from Server3 at 9:10:57
+Computing 2 delta between server3 and server3
+Updating 2 delta between server3 and server3
+Server3 requests 2 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 2 Clock synchronization response from Server2 at 9:10:57
+Computing 2 delta between server4 and server2
+Updating 2 delta between server4 and server2
+Server4 requests 2 Clock synchronization request to Server3 at 9:10:57
+Server3 receives 2 Clock synchronization response from Server4 at 9:10:57
+Computing 2 delta between server3 and server4
+Updating 2 delta between server3 and server4
+Server4 receives 2 Clock synchronization response from Server3 at 9:10:57
+Server3 requests 2 Clock synchronization request to Server1744825472 at 9:10:57
+Server3 receives 2 Clock synchronization response from Server1744825472 at 9:10:57
+Computing 2 delta between server3 and server1744825472
+Updating 2 delta between server3 and server1744825472
+Computing 2 delta between server4 and server3
+Updating 2 delta between server4 and server3
+Server3 requests 3 Clock synchronization request to Server1 at 9:10:57
+Server4 requests 2 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 2 Clock synchronization response from Server4 at 9:10:57
+Server3 receives 3 Clock synchronization response from Server1 at 9:10:57
+Computing 3 delta between server3 and server1
+Computing 2 delta between server4 and server4
+Updating 2 delta between server4 and server4
+Updating 3 delta between server3 and server1
+Server4 requests 2 Clock synchronization request to Server1736432768 at 9:10:57
+Server4 receives 2 Clock synchronization response from Server1736432768 at 9:10:57
+Computing 2 delta between server4 and server1736432768
+Updating 2 delta between server4 and server1736432768
+Server3 requests 3 Clock synchronization request to Server2 at 9:10:57
+Server4 requests 3 Clock synchronization request to Server1 at 9:10:57
+Server3 receives 3 Clock synchronization response from Server2 at 9:10:57
+Computing 3 delta between server3 and server2
+Updating 3 delta between server3 and server2
+Server3 requests 3 Clock synchronization request to Server3 at 9:10:57
+Server4 receives 3 Clock synchronization response from Server1 at 9:10:57
+Computing 3 delta between server4 and server1
+Updating 3 delta between server4 and server1
+Server4 requests 3 Clock synchronization request to Server2 at 9:10:57
+Server3 receives 3 Clock synchronization response from Server3 at 9:10:57
+Computing 3 delta between server3 and server3
+Updating 3 delta between server3 and server3
+Server3 requests 3 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 3 Clock synchronization response from Server2 at 9:10:57
+Computing 3 delta between server4 and server2
+Updating 3 delta between server4 and server2
+Server3 receives 3 Clock synchronization response from Server4 at 9:10:57
+Computing 3 delta between server3 and server4
+Updating 3 delta between server3 and server4
+Server4 requests 3 Clock synchronization request to Server3 at 9:10:57
+Server3 requests 3 Clock synchronization request to Server1744825472 at 9:10:57
+Server3 receives 3 Clock synchronization response from Server1744825472 at 9:10:57
+Computing 3 delta between server3 and server1744825472
+Updating 3 delta between server3 and server1744825472
+Server4 receives 3 Clock synchronization response from Server3 at 9:10:57
+Computing 3 delta between server4 and server3
+Updating 3 delta between server4 and server3
+Server3 requests 4 Clock synchronization request to Server1 at 9:10:57
+Server4 requests 3 Clock synchronization request to Server4 at 9:10:57
+Server3 receives 4 Clock synchronization response from Server1 at 9:10:57
+Computing 4 delta between server3 and server1
+Updating 4 delta between server3 and server1
+Server4 receives 3 Clock synchronization response from Server4 at 9:10:57
+Computing 3 delta between server4 and server4
+Updating 3 delta between server4 and server4
+Server3 requests 4 Clock synchronization request to Server2 at 9:10:57
+Server4 requests 3 Clock synchronization request to Server1736432768 at 9:10:57
+Server4 receives 3 Clock synchronization response from Server1736432768 at 9:10:57
+Computing 3 delta between server4 and server1736432768
+Updating 3 delta between server4 and server1736432768
+Server3 receives 4 Clock synchronization response from Server2 at 9:10:57
+Computing 4 delta between server3 and server2
+Updating 4 delta between server3 and server2
+Server4 requests 4 Clock synchronization request to Server1 at 9:10:57
+Server3 requests 4 Clock synchronization request to Server3 at 9:10:57
+Server4 receives 4 Clock synchronization response from Server1 at 9:10:57
+Computing 4 delta between server4 and server1
+Updating 4 delta between server4 and server1
+Server3 receives 4 Clock synchronization response from Server3 at 9:10:57
+Computing 4 delta between server3 and server3
+Updating 4 delta between server3 and server3
+Server4 requests 4 Clock synchronization request to Server2 at 9:10:57
+Server4 receives 4 Clock synchronization response from Server2 at 9:10:57
+Computing 4 delta between server4 and server2
+Updating 4 delta between server4 and server2
+Server3 requests 4 Clock synchronization request to Server4 at 9:10:57
+Server4 requests 4 Clock synchronization request to Server3 at 9:10:57
+Server3 receives 4 Clock synchronization response from Server4 at 9:10:57
+Computing 4 delta between server3 and server4
+Updating 4 delta between server3 and server4
+Server3 requests 4 Clock synchronization request to Server1744825472 at 9:10:57
+Server3 receives 4 Clock synchronization response from Server1744825472 at 9:10:57
+Server4 receives 4 Clock synchronization response from Server3 at 9:10:57
+Computing 4 delta between server4 and server3
+Computing 4 delta between server3 and server1744825472
+Updating 4 delta between server3 and server1744825472
+Updating 4 delta between server4 and server3
+Server3 requests 5 Clock synchronization request to Server1 at 9:10:57
+Server4 requests 4 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 4 Clock synchronization response from Server4 at 9:10:57
+Computing 4 delta between server4 and server4
+Updating 4 delta between server4 and server4
+Server3 receives 5 Clock synchronization response from Server1 at 9:10:57
+Computing 5 delta between server3 and server1
+Updating 5 delta between server3 and server1
+Server4 requests 4 Clock synchronization request to Server1736432768 at 9:10:57
+Server4 receives 4 Clock synchronization response from Server1736432768 at 9:10:57
+Computing 4 delta between server4 and server1736432768
+Updating 4 delta between server4 and server1736432768
+Server3 requests 5 Clock synchronization request to Server2 at 9:10:57
+Server4 requests 5 Clock synchronization request to Server1 at 9:10:57
+Server3 receives 5 Clock synchronization response from Server2 at 9:10:57
+Computing 5 delta between server3 and server2
+Updating 5 delta between server3 and server2
+Server4 receives 5 Clock synchronization response from Server1 at 9:10:57
+Computing 5 delta between server4 and server1
+Updating 5 delta between server4 and server1
+Server3 requests 5 Clock synchronization request to Server3 at 9:10:57
+Server4 requests 5 Clock synchronization request to Server2 at 9:10:57
+Server3 receives 5 Clock synchronization response from Server3 at 9:10:57
+Computing 5 delta between server3 and server3
+Updating 5 delta between server3 and server3
+Server3 requests 5 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 5 Clock synchronization response from Server2 at 9:10:57
+Computing 5 delta between server4 and server2
+Updating 5 delta between server4 and server2
+Server4 requests 5 Clock synchronization request to Server3 at 9:10:57
+Server3 receives 5 Clock synchronization response from Server4 at 9:10:57
+Computing 5 delta between server3 and server4
+Updating 5 delta between server3 and server4
+Server4 receives 5 Clock synchronization response from Server3 at 9:10:57
+Server3 requests 5 Clock synchronization request to Server1744825472 at 9:10:57
+Server3 receives 5 Clock synchronization response from Server1744825472 at 9:10:57
+Computing 5 delta between server3 and server1744825472
+Computing 5 delta between server4 and server3
+Updating 5 delta between server4 and server3
+Updating 5 delta between server3 and server1744825472
+Server4 requests 5 Clock synchronization request to Server4 at 9:10:57
+Server4 receives 5 Clock synchronization response from Server4 at 9:10:57
+Computing 5 delta between server4 and server4
+Updating 5 delta between server4 and server4
+Server4 requests 5 Clock synchronization request to Server1736432768 at 9:10:57
+Server4 receives 5 Clock synchronization response from Server1736432768 at 9:10:57
+Computing 5 delta between server4 and server1736432768
+Updating 5 delta between server4 and server1736432768
+Server6 requests 1 Clock synchronization request to Server1 at 9:10:57
+Server6 receives 1 Clock synchronization response from Server1 at 9:10:57
+Computing 1 delta between server6 and server1
+Updating 1 delta between server6 and server1
+Server6 requests 1 Clock synchronization request to Server2 at 9:10:57
+Server5 requests 1 Clock synchronization request to Server1 at 9:10:57
+Server6 receives 1 Clock synchronization response from Server2 at 9:10:57
+Computing 1 delta between server6 and server2
+Updating 1 delta between server6 and server2
+Server5 receives 1 Clock synchronization response from Server1 at 9:10:57
+Computing 1 delta between server5 and server1
+Updating 1 delta between server5 and server1
+Server6 requests 1 Clock synchronization request to Server3 at 9:10:57
+Server5 requests 1 Clock synchronization request to Server2 at 9:10:57
+Server6 receives 1 Clock synchronization response from Server3 at 9:10:57
+Computing 1 delta between server6 and server3
+Updating 1 delta between server6 and server3
+Server5 receives 1 Clock synchronization response from Server2 at 9:10:57
+Computing 1 delta between server5 and server2
+Updating 1 delta between server5 and server2
+Server6 requests 1 Clock synchronization request to Server4 at 9:10:57
+Server5 requests 1 Clock synchronization request to Server3 at 9:10:57
+Server6 receives 1 Clock synchronization response from Server4 at 9:10:57
+Computing 1 delta between server6 and server4
+Updating 1 delta between server6 and server4
+Server5 receives 1 Clock synchronization response from Server3 at 9:10:57
+Computing 1 delta between server5 and server3
+Updating 1 delta between server5 and server3
+Server6 requests 1 Clock synchronization request to Server1535106176 at 9:10:57
+Server6 receives 1 Clock synchronization response from Server1535106176 at 9:10:57
+Computing 1 delta between server6 and server1535106176
+Updating 1 delta between server6 and server1535106176
+Server5 requests 1 Clock synchronization request to Server4 at 9:10:57
+Server6 requests 2 Clock synchronization request to Server1 at 9:10:57
+Server5 receives 1 Clock synchronization response from Server4 at 9:10:57
+Computing 1 delta between server5 and server4
+Updating 1 delta between server5 and server4
+Server6 receives 2 Clock synchronization response from Server1 at 9:10:57
+Computing 2 delta between server6 and server1
+Updating 2 delta between server6 and server1
+Server5 requests 1 Clock synchronization request to Server1711254656 at 9:10:57
+Server5 receives 1 Clock synchronization response from Server1711254656 at 9:10:57
+Computing 1 delta between server5 and server1711254656
+Updating 1 delta between server5 and server1711254656
+Server6 requests 2 Clock synchronization request to Server2 at 9:10:57
+Server5 requests 2 Clock synchronization request to Server1 at 9:10:57
+Server6 receives 2 Clock synchronization response from Server2 at 9:10:57
+Computing 2 delta between server6 and server2
+Updating 2 delta between server6 and server2
+Server5 receives 2 Clock synchronization response from Server1 at 9:10:57
+Computing 2 delta between server5 and server1
+Updating 2 delta between server5 and server1
+Server6 requests 2 Clock synchronization request to Server3 at 9:10:57
+Server5 requests 2 Clock synchronization request to Server2 at 9:10:57
+Server6 receives 2 Clock synchronization response from Server3 at 9:10:57
+Computing 2 delta between server6 and server3
+Updating 2 delta between server6 and server3
+Server5 receives 2 Clock synchronization response from Server2 at 9:10:57
+Computing 2 delta between server5 and server2
+Updating 2 delta between server5 and server2
+Server6 requests 2 Clock synchronization request to Server4 at 9:10:57
+Server5 requests 2 Clock synchronization request to Server3 at 9:10:57
+Server6 receives 2 Clock synchronization response from Server4 at 9:10:57
+Computing 2 delta between server6 and server4
+Updating 2 delta between server6 and server4
+Server5 receives 2 Clock synchronization response from Server3 at 9:10:57
+Computing 2 delta between server5 and server3
+Updating 2 delta between server5 and server3
+Server6 requests 2 Clock synchronization request to Server1535106176 at 9:10:57
+Server6 receives 2 Clock synchronization response from Server1535106176 at 9:10:57
+Computing 2 delta between server6 and server1535106176
+Updating 2 delta between server6 and server1535106176
+Server5 requests 2 Clock synchronization request to Server4 at 9:10:57
+Server6 requests 3 Clock synchronization request to Server1 at 9:10:57
+Server5 receives 2 Clock synchronization response from Server4 at 9:10:57
+Computing 2 delta between server5 and server4
+Updating 2 delta between server5 and server4
+Server6 receives 3 Clock synchronization response from Server1 at 9:10:57
+Computing 3 delta between server6 and server1
+Updating 3 delta between server6 and server1
+Server5 requests 2 Clock synchronization request to Server1711254656 at 9:10:57
+Server5 receives 2 Clock synchronization response from Server1711254656 at 9:10:57
+Computing 2 delta between server5 and server1711254656
+Updating 2 delta between server5 and server1711254656
+Server6 requests 3 Clock synchronization request to Server2 at 9:10:57
+Server5 requests 3 Clock synchronization request to Server1 at 9:10:57
+Server6 receives 3 Clock synchronization response from Server2 at 9:10:57
+Computing 3 delta between server6 and server2
+Updating 3 delta between server6 and server2
+Server5 receives 3 Clock synchronization response from Server1 at 9:10:57
+Computing 3 delta between server5 and server1
+Updating 3 delta between server5 and server1
+Server6 requests 3 Clock synchronization request to Server3 at 9:10:57
+Server5 requests 3 Clock synchronization request to Server2 at 9:10:57
+Server6 receives 3 Clock synchronization response from Server3 at 9:10:57
+Computing 3 delta between server6 and server3
+Updating 3 delta between server6 and server3
+Server5 receives 3 Clock synchronization response from Server2 at 9:10:57
+Computing 3 delta between server5 and server2
+Updating 3 delta between server5 and server2
+Server6 requests 3 Clock synchronization request to Server4 at 9:10:57
+Server5 requests 3 Clock synchronization request to Server3 at 9:10:57
+Server6 receives 3 Clock synchronization response from Server4 at 9:10:57
+Computing 3 delta between server6 and server4
+Updating 3 delta between server6 and server4
+Server5 receives 3 Clock synchronization response from Server3 at 9:10:57
+Computing 3 delta between server5 and server3
+Updating 3 delta between server5 and server3
+Server6 requests 3 Clock synchronization request to Server1535106176 at 9:10:57
+Server6 receives 3 Clock synchronization response from Server1535106176 at 9:10:57
+Computing 3 delta between server6 and server1535106176
+Updating 3 delta between server6 and server1535106176
+Server5 requests 3 Clock synchronization request to Server4 at 9:10:57
+Server6 requests 4 Clock synchronization request to Server1 at 9:10:57
+Server5 receives 3 Clock synchronization response from Server4 at 9:10:57
+Computing 3 delta between server5 and server4
+Updating 3 delta between server5 and server4
+Server6 receives 4 Clock synchronization response from Server1 at 9:10:57
+Computing 4 delta between server6 and server1
+Updating 4 delta between server6 and server1
+Server5 requests 3 Clock synchronization request to Server1711254656 at 9:10:57
+Server5 receives 3 Clock synchronization response from Server1711254656 at 9:10:57
+Computing 3 delta between server5 and server1711254656
+Updating 3 delta between server5 and server1711254656
+Server6 requests 4 Clock synchronization request to Server2 at 9:10:57
+Server5 requests 4 Clock synchronization request to Server1 at 9:10:57
+Server6 receives 4 Clock synchronization response from Server2 at 9:10:57
+Computing 4 delta between server6 and server2
+Updating 4 delta between server6 and server2
+Server5 receives 4 Clock synchronization response from Server1 at 9:10:57
+Computing 4 delta between server5 and server1
+Updating 4 delta between server5 and server1
+Server6 requests 4 Clock synchronization request to Server3 at 9:10:57
+Server5 requests 4 Clock synchronization request to Server2 at 9:10:57
+Server6 receives 4 Clock synchronization response from Server3 at 9:10:57
+Computing 4 delta between server6 and server3
+Updating 4 delta between server6 and server3
+Server5 receives 4 Clock synchronization response from Server2 at 9:10:57
+Computing 4 delta between server5 and server2
+Updating 4 delta between server5 and server2
+Server6 requests 4 Clock synchronization request to Server4 at 9:10:57
+Server5 requests 4 Clock synchronization request to Server3 at 9:10:57
+Server6 receives 4 Clock synchronization response from Server4 at 9:10:57
+Computing 4 delta between server6 and server4
+Updating 4 delta between server6 and server4
+Server5 receives 4 Clock synchronization response from Server3 at 9:10:57
+Computing 4 delta between server5 and server3
+Updating 4 delta between server5 and server3
+Server6 requests 4 Clock synchronization request to Server1535106176 at 9:10:57
+Server6 receives 4 Clock synchronization response from Server1535106176 at 9:10:57
+Computing 4 delta between server6 and server1535106176
+Updating 4 delta between server6 and server1535106176
+Server5 requests 4 Clock synchronization request to Server4 at 9:10:57
+Server6 requests 5 Clock synchronization request to Server1 at 9:10:57
+Server5 receives 4 Clock synchronization response from Server4 at 9:10:57
+Computing 4 delta between server5 and server4
+Updating 4 delta between server5 and server4
+Server6 receives 5 Clock synchronization response from Server1 at 9:10:57
+Computing 5 delta between server6 and server1
+Updating 5 delta between server6 and server1
+Server5 requests 4 Clock synchronization request to Server1711254656 at 9:10:57
+Server5 receives 4 Clock synchronization response from Server1711254656 at 9:10:57
+Computing 4 delta between server5 and server1711254656
+Updating 4 delta between server5 and server1711254656
+Server6 requests 5 Clock synchronization request to Server2 at 9:10:57
+Server5 requests 5 Clock synchronization request to Server1 at 9:10:57
+Server6 receives 5 Clock synchronization response from Server2 at 9:10:57
+Computing 5 delta between server6 and server2
+Updating 5 delta between server6 and server2
+Server5 receives 5 Clock synchronization response from Server1 at 9:10:57
+Computing 5 delta between server5 and server1
+Updating 5 delta between server5 and server1
+Server6 requests 5 Clock synchronization request to Server3 at 9:10:57
+Server5 requests 5 Clock synchronization request to Server2 at 9:10:57
+Server6 receives 5 Clock synchronization response from Server3 at 9:10:57
+Computing 5 delta between server6 and server3
+Updating 5 delta between server6 and server3
+Server5 receives 5 Clock synchronization response from Server2 at 9:10:57
+Computing 5 delta between server5 and server2
+Updating 5 delta between server5 and server2
+Server6 requests 5 Clock synchronization request to Server4 at 9:10:57
+Server5 requests 5 Clock synchronization request to Server3 at 9:10:57
+Server6 receives 5 Clock synchronization response from Server4 at 9:10:57
+Computing 5 delta between server6 and server4
+Updating 5 delta between server6 and server4
+Server5 receives 5 Clock synchronization response from Server3 at 9:10:57
+Computing 5 delta between server5 and server3
+Updating 5 delta between server5 and server3
+Server6 requests 5 Clock synchronization request to Server1535106176 at 9:10:57
+Server6 receives 5 Clock synchronization response from Server1535106176 at 9:10:57
+Computing 5 delta between server6 and server1535106176
+Updating 5 delta between server6 and server1535106176
+Server5 requests 5 Clock synchronization request to Server4 at 9:10:57
+Server5 receives 5 Clock synchronization response from Server4 at 9:10:57
+Computing 5 delta between server5 and server4
+Updating 5 delta between server5 and server4
+Server5 requests 5 Clock synchronization request to Server1711254656 at 9:10:57
+Server5 receives 5 Clock synchronization response from Server1711254656 at 9:10:57
+Computing 5 delta between server5 and server1711254656
+Updating 5 delta between server5 and server1711254656
+Server2 requests 1 Clock synchronization request to Server1 at 9:10:57
+Server2 receives 1 Clock synchronization response from Server1 at 9:10:57
+Computing 1 delta between server2 and server1
+Updating 1 delta between server2 and server1
+Server2 requests 1 Clock synchronization request to Server2 at 9:10:57
+Server2 receives 1 Clock synchronization response from Server2 at 9:10:57
+Computing 1 delta between server2 and server2
+Updating 1 delta between server2 and server2
+Server2 requests 1 Clock synchronization request to Server3 at 9:10:57
+Server2 receives 1 Clock synchronization response from Server3 at 9:10:57
+Computing 1 delta between server2 and server3
+Updating 1 delta between server2 and server3
+Server2 requests 1 Clock synchronization request to Server4 at 9:10:57
+Server2 receives 1 Clock synchronization response from Server4 at 9:10:57
+Computing 1 delta between server2 and server4
+Updating 1 delta between server2 and server4
+Server2 requests 1 Clock synchronization request to Server1966746752 at 9:10:57
+Server2 receives 1 Clock synchronization response from Server1966746752 at 9:10:57
+Computing 1 delta between server2 and server1966746752
+Updating 1 delta between server2 and server1966746752
+Server2 requests 2 Clock synchronization request to Server1 at 9:10:57
+Server2 receives 2 Clock synchronization response from Server1 at 9:10:57
+Computing 2 delta between server2 and server1
+Updating 2 delta between server2 and server1
+Server2 requests 2 Clock synchronization request to Server2 at 9:10:57
+Server2 receives 2 Clock synchronization response from Server2 at 9:10:57
+Computing 2 delta between server2 and server2
+Updating 2 delta between server2 and server2
+Server2 requests 2 Clock synchronization request to Server3 at 9:10:57
+Server2 receives 2 Clock synchronization response from Server3 at 9:10:57
+Computing 2 delta between server2 and server3
+Updating 2 delta between server2 and server3
+Server2 requests 2 Clock synchronization request to Server4 at 9:10:57
+Server2 receives 2 Clock synchronization response from Server4 at 9:10:57
+Computing 2 delta between server2 and server4
+Updating 2 delta between server2 and server4
+Server2 requests 2 Clock synchronization request to Server1966746752 at 9:10:57
+Server2 receives 2 Clock synchronization response from Server1966746752 at 9:10:57
+Computing 2 delta between server2 and server1966746752
+Updating 2 delta between server2 and server1966746752
+Server2 requests 3 Clock synchronization request to Server1 at 9:10:57
+Server2 receives 3 Clock synchronization response from Server1 at 9:10:57
+Computing 3 delta between server2 and server1
+Updating 3 delta between server2 and server1
+Server2 requests 3 Clock synchronization request to Server2 at 9:10:57
+Server2 receives 3 Clock synchronization response from Server2 at 9:10:57
+Computing 3 delta between server2 and server2
+Updating 3 delta between server2 and server2
+Server2 requests 3 Clock synchronization request to Server3 at 9:10:57
+Server2 receives 3 Clock synchronization response from Server3 at 9:10:57
+Computing 3 delta between server2 and server3
+Updating 3 delta between server2 and server3
+Server2 requests 3 Clock synchronization request to Server4 at 9:10:57
+Server2 receives 3 Clock synchronization response from Server4 at 9:10:57
+Computing 3 delta between server2 and server4
+Updating 3 delta between server2 and server4
+Server2 requests 3 Clock synchronization request to Server1966746752 at 9:10:57
+Server2 receives 3 Clock synchronization response from Server1966746752 at 9:10:57
+Computing 3 delta between server2 and server1966746752
+Updating 3 delta between server2 and server1966746752
+Server2 requests 4 Clock synchronization request to Server1 at 9:10:57
+Server2 receives 4 Clock synchronization response from Server1 at 9:10:57
+Computing 4 delta between server2 and server1
+Updating 4 delta between server2 and server1
+Server2 requests 4 Clock synchronization request to Server2 at 9:10:57
+Server2 receives 4 Clock synchronization response from Server2 at 9:10:57
+Computing 4 delta between server2 and server2
+Updating 4 delta between server2 and server2
+Server2 requests 4 Clock synchronization request to Server3 at 9:10:57
+Server2 receives 4 Clock synchronization response from Server3 at 9:10:57
+Computing 4 delta between server2 and server3
+Updating 4 delta between server2 and server3
+Server2 requests 4 Clock synchronization request to Server4 at 9:10:57
+Server2 receives 4 Clock synchronization response from Server4 at 9:10:57
+Computing 4 delta between server2 and server4
+Updating 4 delta between server2 and server4
+Server2 requests 4 Clock synchronization request to Server1966746752 at 9:10:57
+Server2 receives 4 Clock synchronization response from Server1966746752 at 9:10:57
+Computing 4 delta between server2 and server1966746752
+Updating 4 delta between server2 and server1966746752
+Server2 requests 5 Clock synchronization request to Server1 at 9:10:57
+Server2 receives 5 Clock synchronization response from Server1 at 9:10:57
+Computing 5 delta between server2 and server1
+Updating 5 delta between server2 and server1
+Server2 requests 5 Clock synchronization request to Server2 at 9:10:57
+Server2 receives 5 Clock synchronization response from Server2 at 9:10:57
+Computing 5 delta between server2 and server2
+Updating 5 delta between server2 and server2
+Server2 requests 5 Clock synchronization request to Server3 at 9:10:57
+Server2 receives 5 Clock synchronization response from Server3 at 9:10:57
+Computing 5 delta between server2 and server3
+Updating 5 delta between server2 and server3
+Server2 requests 5 Clock synchronization request to Server4 at 9:10:57
+Server2 receives 5 Clock synchronization response from Server4 at 9:10:57
+Computing 5 delta between server2 and server4
+Updating 5 delta between server2 and server4
+Server2 requests 5 Clock synchronization request to Server1966746752 at 9:10:57
+Server2 receives 5 Clock synchronization response from Server1966746752 at 9:10:57
+Computing 5 delta between server2 and server1966746752
+Updating 5 delta between server2 and server1966746752
